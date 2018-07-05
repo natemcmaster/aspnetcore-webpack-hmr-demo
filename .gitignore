@@ -1,0 +1,8 @@
+obj/
+bin/
+launchSettings.json
+.idea/
+*.iml
+node_modules/
+*/wwwroot/dist/
+.awcache/
